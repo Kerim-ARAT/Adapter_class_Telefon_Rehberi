@@ -1,21 +1,41 @@
 <resources>
     <string name="app_name">Adapter_class_telefon_rehber</string>
     <string-array name="isimler">
-        <item>Akif</item>
+        <item>Ali</item>
         <item>Mehmed</item>
         <item>Ayşe</item>
         <item>Fatma</item>
         <item>Merve</item>
         <item>Osman</item>
-        <item>Kerim</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+
     </string-array>
     <string-array name="durumlar">
-        <item>A</item>
-        <item>Mehmed</item>
-        <item>Ayşe</item>
-        <item>Fatma</item>
-        <item>Merve</item>
+        <item>Şahin</item>
+        <item>Kılıç</item>
+        <item>Güler</item>
+        <item>Kadıoğlu</item>
+        <item>Müldür</item>
+        <item>Çelik</item>
         <item>Osman</item>
-        <item>Kerim</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
+        <item>Osman</item>
     </string-array>
 </resources>
